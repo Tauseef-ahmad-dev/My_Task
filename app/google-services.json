@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178293138394",
+    "project_id": "mazdor-app-gabeen",
+    "storage_bucket": "mazdor-app-gabeen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178293138394:android:0b1fd17dd992db8fcc16e3",
+        "android_client_info": {
+          "package_name": "com.example.maju.mazdor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178293138394-6vrpm8ejcq26g8i29rumm4ujrfesc7oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH69-QYzT96UDu_XOIKy5A6nJHEDBBRyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178293138394-6vrpm8ejcq26g8i29rumm4ujrfesc7oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
