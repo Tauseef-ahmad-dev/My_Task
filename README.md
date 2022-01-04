@@ -7,7 +7,7 @@ Features
 The android app lets you:
 
 Login and register with firebase database.
-create job post
-view job post
-check your profile
-check about the auhor
+create job post.
+view job post.
+check your profile.
+check about the auhor.
